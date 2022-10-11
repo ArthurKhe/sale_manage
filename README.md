@@ -1,2 +1,4 @@
-# sale_manage
-sale_manage
+# Artur.Khe
+«API Сервис заказа товаров для розничных сетей».
+
+
